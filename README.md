@@ -1,4 +1,4 @@
 djangoUsps
 ==========
 
-a Django wrapper pyUspsLib. Provides Ajax interface and simple object to connect to USPS.
+a Django wrapper for pyUspsLib. Provides Ajax interface and simple object to connect to USPS.
